@@ -1,4 +1,4 @@
-# SEGA Megadrive/Genesis for DE10-Standard Edition of MiSTer.
+# SEGA Megadrive/Genesis for DE1-SoC Edition of MiSTer.
 
 This is the port of fpgagen core.
 
